@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/meandi/代码随想录/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/test.dir/test.cpp.o -c /home/meandi/代码随想录/test.cpp",
+  "file": "/home/meandi/代码随想录/test.cpp"
+}
+]
